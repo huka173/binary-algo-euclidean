@@ -1,0 +1,8 @@
+﻿  crypto.cpp
+  io.cpp
+  main.cpp
+  Running Code Analysis for C/C++...
+  Generating code
+  Incremental LTCG not compatible with Address Sanitizer, build without incremental LTCG.
+  Finished generating code
+  binary-algo-euclidean.vcxproj -> D:\НГТУ\Криптография\binary-algo-euclidean\x64\Release\binary-algo-euclidean.exe

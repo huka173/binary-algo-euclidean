@@ -1,0 +1,2 @@
+D:\НГТУ\Криптография\binary-algo-euclidean\x64\Release\binary-algo-euclidean.exe.lastcodeanalysissucceeded
+D:\НГТУ\Криптография\binary-algo-euclidean\binary-a.de3688b3\x64\Release\NativeCodeAnalysis.read.1.tlog
